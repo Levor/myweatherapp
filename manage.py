@@ -22,4 +22,4 @@ def main():
 if __name__ == '__main__':
     main()
 
-    sys.path.append('D:\myweatherapp\venv\Lib\site-packages')
+    sys.path.append('venv\Lib\site-packages')
