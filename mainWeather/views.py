@@ -29,4 +29,4 @@ def index(request):
 
     context = {'info': city_info, 'form': form}
 
-    return render(request, 'weather/mainpage.html', context)
+    return render(request, 'weather/index.html', context)
